@@ -4,8 +4,8 @@ name: Trigger auto deployment for demo-container
 
 env:
   # !!!! UPDATE THESE VARIABLE BELOW !!!!
-  AZURE_WEBAPP_NAME: changeme 
-  AZURE_GROUP_NAME: changeme
+  AZURE_WEBAPP_NAME: purplevjs 
+  AZURE_GROUP_NAME: purplevjs
 
 # When this action will be executed
 on:
